@@ -1,0 +1,10 @@
+.experience-img {
+    object-fit: cover;
+    max-width: 350px;
+    max-height: 150px;
+
+}
+
+.card-max-w {
+    max-width: 350px;
+}
